@@ -1,0 +1,108 @@
+
+body {
+    font-family: 'Arial', sans-serif; 
+    background-color: #f4f4f4; 
+    color: black; 
+}
+
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif; 
+    color: turquoise; 
+}
+
+
+body {
+    background-color: white; 
+}
+
+
+body {
+    background-image: url('https://4.bp.blogspot.com/-qEXuUm1X6iY/WARZuqaOhlI/AAAAAAAAGSs/_EiYexuemPoNcXcZ2JQGOz1yOzG7PAciACLcB/s1600/Woow+Cool+Picture+Dubai+photo+by+sandyvacations.jpg'); 
+    background-size: cover;  
+    background-position: center center;
+    text-align: center; 
+}
+
+
+nav {
+    background-color: gray; 
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    background-color: aliceblue; 
+    padding: 5px 10px; 
+    border-radius: 5px; 
+}
+
+
+header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: white;
+    
+}
+
+header img {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+
+section {
+    background-color: white;
+   
+}
+
+article {
+    background-color: white;
+   
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+article h3 {
+    font-size: 2em;
+    margin-top: 10px;
+    color: turquoise; /
+}
+
+article p {
+    font-size: 1;
+    margin: 10px 0;
+}
+
+article a {
+    color: blue;
+    
+}
+
+article a:hover {
+     background-color: aqua;
+}
+
